@@ -3,8 +3,7 @@
 An end-to-end Python ETL project that extracts exchange-rate data from the **Frankfurter API**, transforms the data using Pandas, stores it in a SQL database, and retrieves the stored data for analysis.
 
 ## Pipeline Overview
-
-<!-- ChatGPT Image Aug 18, 2026, 01_32_14 PM.png -->
+![project Overview](pipeline_illustration.png)
 
 ## Project Overview
 
